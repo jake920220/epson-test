@@ -1,0 +1,7 @@
+{
+"typeRoots": [
+    "./typings",
+    "./node_modules/@types/"
+  ],
+  "noImplicitAny": false
+}
